@@ -1,8 +1,8 @@
 [
-	{"id":"6","name":"ISCON Temple","location":"Mayapur","state":"Nadia District. WB","image":"https://res.cloudinary.com/shushovan/image/upload/v1642352828/temples/ISKCON-Temple-Mayapur.jpg","description":"Lorem Ipsum"},
-	{"id":"1","name":"Dakshineswar Kali Temple","location":"Dakshineswar","state":"North 24 Pgs. WB","image":"https://res.cloudinary.com/shushovan/image/upload/v1642347918/temples/Dakshineswar-Temple.jpg","description":"Lorem Ipsum"},
-	{"id":"2","name":"Kalighat Kali Temple","location":"Kalighat","state":"South 24 Pgs. WB","image":"https://res.cloudinary.com/shushovan/image/upload/v1642346547/temples/555418767Kolkata_Kalighat_Temple_Main.jpg","description":"Lorem Ipsum"},
-	{"id":"3","name":"Tarapith Temple","location":"Tarapith","state":"Birbhum, WB","image":"https://res.cloudinary.com/shushovan/image/upload/v1642346604/temples/Maa-Tara-Temple1.jpg","description":"Lorem Ipsum"},
-	{"id":"4","name":"Jagannath Temple","location":"Puri","state":"Puri, Odisa","image":"https://res.cloudinary.com/shushovan/image/upload/v1642346730/temples/puri.jpg","description":"Lorem Ipsum"},
-	{"id":"5","name":"Kamakhya Temple","location":"Nilgiri Mountain","state":"Guwahati, Assam","image":"https://res.cloudinary.com/shushovan/image/upload/v1642346909/temples/77992660.jpg","description":"Lorem Ipsum"},
+	{"id":"6","name":"ISCON Temple","location":"Mayapur","state":"Nadia District. WB","image":"https://res.cloudinary.com/shushovan/image/upload/v1642352828/temples/ISKCON-Temple-Mayapur.jpg"},
+	{"id":"1","name":"Dakshineswar Kali Temple","location":"Dakshineswar","state":"North 24 Pgs. WB","image":"https://res.cloudinary.com/shushovan/image/upload/v1642347918/temples/Dakshineswar-Temple.jpg"},
+	{"id":"2","name":"Kalighat Kali Temple","location":"Kalighat","state":"South 24 Pgs. WB","image":"https://res.cloudinary.com/shushovan/image/upload/v1642346547/temples/555418767Kolkata_Kalighat_Temple_Main.jpg"},
+	{"id":"3","name":"Tarapith Temple","location":"Tarapith","state":"Birbhum, WB","image":"https://res.cloudinary.com/shushovan/image/upload/v1642346604/temples/Maa-Tara-Temple1.jpg"},
+	{"id":"4","name":"Jagannath Temple","location":"Puri","state":"Puri, Odisa","image":"https://res.cloudinary.com/shushovan/image/upload/v1642346730/temples/puri.jpg"},
+	{"id":"5","name":"Kamakhya Temple","location":"Nilgiri Mountain","state":"Guwahati, Assam","image":"https://res.cloudinary.com/shushovan/image/upload/v1642346909/temples/77992660.jpg"},
 ]
